@@ -1,0 +1,14 @@
+Project Goals
+
+This project's goal is to find out if we can use data to predict a soccer player's future scores per game. To conduct our analysis we will be utilizing a linear regression model to create a predictive model that determines which variable of data is the primary influencer of the soccer player's ability to score. 
+
+TECH STACK
+
+Languages: Python
+Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy
+
+Approach
+
+In this project use a real-life example with real data from soccer players. We will perform a regression analysis, utilizing multiple linear regression in python.
+
+In order to conduct our predictive model as accurately as possible, we will utilize diagnostics and remedial measures in order to conduct an accurate regression model and then we will be  performing sampling distributions of regression coefficents and analyzing the point estimators of mean, variance and distributions of underlying parameters.
