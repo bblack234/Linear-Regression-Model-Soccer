@@ -9,6 +9,6 @@ Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy
 
 Approach
 
-In this project use a real-life example with real data from soccer players. We will perform a regression analysis, utilizing multiple linear regression in python.
+In this project we use a real-life example with real data from soccer players. We will perform a regression analysis, utilizing multiple linear regression in python.
 
 In order to conduct our predictive model as accurately as possible, we will utilize diagnostics and remedial measures in order to conduct an accurate regression model and then we will be  performing sampling distributions of regression coefficents and analyzing the point estimators of mean, variance and distributions of underlying parameters.
